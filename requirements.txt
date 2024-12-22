@@ -1,0 +1,31 @@
+# Generative AI Libraries  
+langchain             # LangChain framework for LLM applications  
+langchain-openai 
+langchain_community
+
+transformers           # Hugging Face Transformers for various pre-trained models    
+openai                 # OpenAI API client  
+fastapi                # FastAPI for building web APIs  
+uvicorn                # ASGI server for running FastAPI applications  
+
+# Web Apps Frameworks  
+streamlit            # Streamlit for building data apps  
+gradio                 # Gradio for creating user interfaces for ML models  
+
+
+# Data Processing Libraries  
+pandas                 # Data manipulation and analysis  
+numpy                  # Fundamental package for scientific computing  
+scikit-learn          # Machine learning library  
+
+# Web Scraping Libraries  
+beautifulsoup4         # Web scraping library  
+requests              # HTTP requests for API calls and data fetching  
+
+# Visualization Libraries  
+matplotlib            # Plotting library  
+seaborn                # Statistical data visualization  
+
+# Other Useful Libraries  
+jupyterlab            # JupyterLab for enhanced notebooks  
+notebook                # Standard Jupyter Notebook
